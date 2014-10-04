@@ -1,0 +1,2 @@
+# The SUID bit is intentional.
+fingerprint-gui binary: setuid-binary usr/lib/fingerprint-gui/fingerprint-suid 4755 root/root

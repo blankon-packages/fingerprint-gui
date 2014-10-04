@@ -1,0 +1,11 @@
+fingerprint-gui (1.06-dfsg1-0blankon1) tambora; urgency=low
+
+  * New Upload to tambora 
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Sat, 04 Oct 2014 12:33:46 +0000
+
+fingerprint-gui (1.06-dfsg1-0ppa1~utopic1) utopic; urgency=low
+
+  * New upstream version
+
+ -- David Jurenka <debian.box@imx.jurenka.cz>  Thu, 25 Sep 2014 21:42:23 +0100
